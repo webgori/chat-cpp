@@ -1,0 +1,8 @@
+﻿  ChatClient.cpp
+C:\Users\webgori\Documents\카카오톡 받은 파일\chat\ChatClient\ChatClient\ChatClient.cpp(35,20): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\webgori\Documents\카카오톡 받은 파일\chat\ChatClient\ChatClient\ChatClient.cpp(36,22): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\webgori\Documents\카카오톡 받은 파일\chat\ChatClient\ChatClient\ChatClient.cpp(98,34): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\webgori\Documents\카카오톡 받은 파일\chat\ChatClient\ChatClient\ChatClient.cpp(71,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\webgori\Documents\카카오톡 받은 파일\chat\ChatClient\ChatClient\ChatClient.cpp(95,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\webgori\Documents\카카오톡 받은 파일\chat\ChatClient\ChatClient\ChatClient.cpp(58,1): warning C4172: 지역 변수 또는 임시: messageWithNickname의 주소를 반환하고 있습니다.
+  ChatClient.vcxproj -> C:\Users\webgori\Documents\카카오톡 받은 파일\chat\ChatClient\x64\Debug\ChatClient.exe
